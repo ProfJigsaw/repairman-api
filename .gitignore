@@ -24,3 +24,6 @@
 
 # Ignore the coverage folder
 /coverage/*
+
+# hide keys
+/config/application.yml
